@@ -1,0 +1,21 @@
+# OS metadata
+.DS_Store
+._*
+Thumbs.db
+
+# Logs and temporary editor files
+*.log
+*.swp
+*.swo
+*~
+*.tmp
+
+# Local environment files (never commit credentials)
+.env
+.env.*
+!.env.example
+
+# Herdr runtime state
+/herdr/session.json
+/herdr/session-snapshots/
+/herdr/release-notes.json
