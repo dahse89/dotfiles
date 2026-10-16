@@ -19,3 +19,5 @@ Thumbs.db
 /herdr/session.json
 /herdr/session-snapshots/
 /herdr/release-notes.json
+/herdr/.plugins.lock
+/herdr/herdr.sock.agent
